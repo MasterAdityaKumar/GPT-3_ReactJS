@@ -1,0 +1,1 @@
+In this project only one dependency is used named react-icons and all other things would be done thorugh scratch
